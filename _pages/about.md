@@ -12,7 +12,6 @@ profile:
     <p>3345 Engineering Building</p>
     <p>428 S. Shaw Lane</p>
     <p>East Lansing, MI 48824, U.S.A.</p>
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3sBQoe5JlI9t669udbIbLkkQbma6_3Iu1tEKGhgxOn0&cl=ffffff&w=a"></script>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -37,3 +36,5 @@ My research interest main focuses on Computer Vision (CV) issues under various l
 
 Currently, I am researching Deepfake issues from learning perspective. Before that, I also worked on Few-Shot Learning (FSL) and Federated Learning (FL) issues.
 I am always welcome to research cooperation! So, if you are interested, feel free to contact me via email.
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3sBQoe5JlI9t669udbIbLkkQbma6_3Iu1tEKGhgxOn0&cl=ffffff&w=a"></script>
