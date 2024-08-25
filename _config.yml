@@ -40,7 +40,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3sBQoe5JlI9t669udbIbLkkQbma6_3Iu1tEKGhgxOn0&cl=ffffff&w=a"></script>
+# <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3sBQoe5JlI9t669udbIbLkkQbma6_3Iu1tEKGhgxOn0&cl=ffffff&w=a"></script>
 
 rss_icon: true
 
