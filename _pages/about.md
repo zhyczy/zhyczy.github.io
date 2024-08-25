@@ -12,6 +12,7 @@ profile:
     <p>3345 Engineering Building</p>
     <p>428 S. Shaw Lane</p>
     <p>East Lansing, MI 48824, U.S.A.</p>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3sBQoe5JlI9t669udbIbLkkQbma6_3Iu1tEKGhgxOn0&cl=ffffff&w=a"></script>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,11 +26,13 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 <span style="color: skyblue;">**About Me**</span>
+
 I am Zhongyi Cai, a Ph.D. student in the [Computer Science and Engineering Department](https://engineering.msu.edu/about/departments/cse) at [Michigan State University (MSU)](https://msu.edu/), advised by [Prof. Yu Kong](https://www.egr.msu.edu/~yukong/). 
 
 Prior to my Ph.D. endeavor, I obtained my Master's degree in 2021 and Master's degree in 2024 at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I was advised by [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/) and [Prof. Ye Shi](https://shiye21.github.io/).
 
 <span style="color: skyblue;">**Research Interest**</span>
+
 My research interest main focuses on Computer Vision (CV) issues under various learning scenarios. I am especially interested in problems involving multiple domains, agents or tasks. 
 
 Currently, I am researching Deepfake issues from learning perspective. Before that, I also worked on Few-Shot Learning (FSL) and Federated Learning (FL) issues.
