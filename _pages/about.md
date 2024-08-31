@@ -10,9 +10,13 @@ profile:
   image: homepage.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>3345 Engineering Building</p>
-    <p>428 S. Shaw Lane</p>
-    <p>East Lansing, MI 48824, U.S.A.</p>
+    <p>East Lansing</p>
+    <p>MI 48824</p>
+    <p>U.S.A.</p>
+
+# <p>3345 Engineering Building</p>
+# <p>428 S. Shaw Lane</p>
+# <p>East Lansing, MI 48824, U.S.A.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,13 +29,15 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-<span style="color: blue;">**About Me**</span>
+<!-- <span style="color: blue;">**About Me**</span> -->
+<span>**About Me**</span>
 
-I am Zhongyi Cai, a Ph.D. student in the [Computer Science and Engineering Department (CSE)](https://engineering.msu.edu/about/departments/cse) at [Michigan State University (MSU)](https://msu.edu/), advised by [Prof. Yu Kong](https://www.egr.msu.edu/~yukong/). 
+I am Zhongyi Cai, a Ph.D. student at [Computer Science and Engineering Department (CSE)](https://engineering.msu.edu/about/departments/cse) in [Michigan State University (MSU)](https://msu.edu/), advised by [Prof. Yu Kong](https://www.egr.msu.edu/~yukong/). 
 
-Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 and Master's degree in 2024 at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I was advised by [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/) and [Prof. Ye Shi](https://shiye21.github.io/).
+Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 and Master's degree in 2024 at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I was supervised by [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/) and [Prof. Ye Shi](https://shiye21.github.io/).
 
-<span style="color: blue;">**Research Interest**</span>
+<!-- <span style="color: blue;">**Research Interest**</span> -->
+<span>**Research Interest**</span>
 
 My research interest mainly focuses on Computer Vision (CV) issues under various learning scenarios. I am especially interested in problems involving multiple domains, agents or tasks. 
 
