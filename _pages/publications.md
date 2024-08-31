@@ -3,9 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: My publications by categories in reversed chronological order.
-# pagination:
-# 	enabled: true
-nav: true
+nav: false
 nav_order: 1
 ---
 
