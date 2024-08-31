@@ -33,7 +33,7 @@ Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 and Master's
 
 <span style="color: blue;">**Research Interest**</span>
 
-My research interest main focuses on Computer Vision (CV) issues under various learning scenarios. I am especially interested in problems involving multiple domains, agents or tasks. 
+My research interest mainly focuses on Computer Vision (CV) issues under various learning scenarios. I am especially interested in problems involving multiple domains, agents or tasks. 
 
 Currently, I am researching Deepfake issues from learning perspective. Before that, I also worked on Few-Shot Learning (FSL) and Federated Learning (FL) issues.
 I am always welcome to research cooperation! So, if you are interested, feel free to contact me via email.
