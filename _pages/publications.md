@@ -6,7 +6,7 @@ description: My publications by categories in reversed chronological order.
 # pagination:
 # 	enabled: true
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
