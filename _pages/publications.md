@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: My publications by categories in reversed chronological order.
 # pagination:
 # 	enabled: true
