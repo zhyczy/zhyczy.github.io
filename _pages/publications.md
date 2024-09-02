@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: publications
 description: My publications by categories in reversed chronological order.
-nav: false
-nav_order: 1
+# nav: false
+# nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
