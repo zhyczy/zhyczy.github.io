@@ -1,26 +1,10 @@
 {
   "basics": {
     "name": "Zhongyi Cai",
-    // "label": "",
     "image": "",
     "email": "caizhon2 AT msu DOT com",
-    // "phone": "",
     "url": "https://zhyczy.github.io/",
-    // "summary": "",
-    // "location": {
-    //   "address": "",
-    //   "postalCode": "",
-    //   "city": "",
-    //   "countryCode": "",
-    //   "region": ""
     }
-    // "profiles": [
-    //   {
-    //     "network": "",
-    //     "username": "",
-    //     "url": ""
-    //   }
-    // ]
   },
   "work": [
     {
@@ -44,18 +28,6 @@
       "highlights": ["Car Plate Number Detection and Recognition", " Engaged in ICDAR 2021 Robust Reading Challenge"]
     },
   ],
-  // "volunteer": [
-  //   {
-  //     "organization": "",
-  //     "location": "",
-  //     "position": "",
-  //     "url": "",
-  //     "startDate": "",
-  //     "endDate": "",
-  //     "summary": "",
-  //     "highlights": ["", ""]
-  //   }
-  // ],
   "education": [
     {
       "institution": "Michigan State University",
@@ -109,34 +81,7 @@
         "Journal: IEEE Transactions on Multimedia"
       ]
     }
-  ]
-  // "awards": [
-  //   {
-  //     "title": "",
-  //     "date": "",
-  //     "awarder": "",
-  //     "url": "",
-  //     "summary": ""
-  //   }
-  // // ],
-  // "certificates": [
-  //   {
-  //     "name": "",
-  //     "date": "",
-  //     "issuer": "",
-  //     "url": "",
-  //     "icon": ""
-  //   }
-  // ],
-  // "publications": [
-  //   {
-  //     "name": "",
-  //     "publisher": "",
-  //     "releaseDate": "",
-  //     "url": "",
-  //     "summary": ""
-  //   }
-  // ],
+  ],
   "skills": [
     {
       "name": "Coding Language",
@@ -158,34 +103,5 @@
         "OpenCV"
       ]
     },
-  ],
-  // "languages": [
-  //   {
-  //     "language": "",
-  //     "fluency": "",
-  //     "icon": ""
-  //   },
-  //   {
-  //     "language": "English",
-  //     "fluency": "Fluent",
-  //     "icon": ""
-  //   }
-  // ],
-  // "references": [
-  //   {
-  //     "name": "",
-  //     "icon": "",
-  //     "reference": ""
-  //   }
-  // ],
-  // "projects": [
-  //   {
-  //     "name": "",
-  //     "summary": "",
-  //     "highlights": [""],
-  //     "startDate": "",
-  //     "endDate": "",
-  //     "url": ""
-  //   }
-  // ]
+  ]
 }
