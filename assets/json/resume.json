@@ -41,18 +41,6 @@
       "highlights": ["Car Plate Number Detection and Recognition", " Engage in ICDAR 2021 Robust Reading Challenge"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "Michigan State University",
@@ -88,7 +76,7 @@
       "courses": ["Few-Shot Learning"]
     }
   ],
-  "Experience": [
+  "experience": [
     {
       "name": "University of Padova",
       "location": "Padova, Italy",
@@ -98,7 +86,7 @@
       "endDate": "2019-09"
     }
   ],
-  "Service": [
+  "service": [
     {
       "name": "Reviewer",
       "keywords": [
@@ -107,34 +95,11 @@
       ]
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
   "skills": [
     {
       "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
