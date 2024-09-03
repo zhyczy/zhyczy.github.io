@@ -75,5 +75,14 @@
       "score": "10",
       "courses": ["Few-Shot Learning"]
     }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "icon": "",
+      "keywords": [""
+      ]
+    }
   ]
 }
