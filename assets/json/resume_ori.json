@@ -1,9 +1,12 @@
 {
   "basics": {
-    "name": "Zhongyi Cai",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "caizhon2 AT msu DOT com",
-    "url": "https://zhyczy.github.io/",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -21,24 +24,13 @@
   },
   "work": [
     {
-      "name": "Michigan State University",
-      "location": "East Lansing, MI, USA",
-      "position": "Research Assistant",
-      "url": "",
-      "startDate": "2024-08",
-      "endDate": "Present",
-      "summary": "Conduct Research on Computer Vision and Artificial Intelligence issues",
-      "highlights": ["DeepFake", "Vedio Analysis", "Embodied AI"]
-    },
-    {
-      "name": "Hikvision Research Institute",
-      "location": "Shanghai, China",
-      "position": "Algorithm Engineer Intern",
-      "url": "",
-      "startDate": "2020-12",
-      "endDate": "2021-03",
-      "summary": "Conduct Research on  Optical Character Recognition (OCR)",
-      "highlights": ["Car Plate Number Detection and Recognition", " Engaged in ICDAR 2021 Robust Reading Challenge"]
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
