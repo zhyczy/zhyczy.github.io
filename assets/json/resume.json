@@ -119,7 +119,7 @@
     {
       "name": "Coding Language",
       "level": "Master",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
         "C and C++",
@@ -131,11 +131,6 @@
     {
       "language": "German",
       "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
       "icon": ""
     }
   ],
