@@ -115,7 +115,7 @@
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
-   "skills": [
+  "skills": [
     {
       "name": "Coding Language",
       "level": "Master",
@@ -123,18 +123,9 @@
       "keywords": [
         "Python",
         "C and C++",
-        "Matlab"
+        "Matlab",
       ]
-    },
-    {
-      "name": "Tools for Deep Learning",
-      "level": "Master",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Pytorch",
-        "OpenCV"
-      ]
-    },
+    }
   ],
   "languages": [
     {
