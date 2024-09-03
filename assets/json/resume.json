@@ -117,13 +117,16 @@
   ],
   "skills": [
     {
-      "name": "Coding Language",
+      "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python",
-        "C and C++",
-        "Matlab",
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
@@ -131,6 +134,11 @@
     {
       "language": "German",
       "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     }
   ],
