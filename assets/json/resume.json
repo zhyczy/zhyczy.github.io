@@ -75,24 +75,5 @@
       "score": "10",
       "courses": ["Few-Shot Learning"]
     }
-  ],
-  "experience": [
-    {
-      "name": "University of Padova",
-      "location": "Padova, Italy",
-      "position": "Summer School",
-      "url": "",
-      "startDate": "2019-08",
-      "endDate": "2019-09"
-    }
-  ],
-  "service": [
-    {
-      "name": "Reviewer",
-      "keywords": [
-        "Conference: CVPR, NeruIPS, ICML",
-        "Journal: IEEE Transactions on Multimedia"
-      ]
-    }
-  ],
+  ]
 }
