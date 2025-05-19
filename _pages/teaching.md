@@ -23,7 +23,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
  <li><strong>Reviewer</strong></li>
   <ul>
-  <li>Conference: CVPR, NeruIPS, ICML</li>
+  <li>Conference: CVPR, NeruIPS, ICML, IJCAI</li>
   <li>Journal: IEEE Transactions on Multimedia</li>
   </ul>
 </ul>
