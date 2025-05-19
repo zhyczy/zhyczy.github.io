@@ -31,7 +31,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am Zhongyi Cai, a Ph.D. student at [Computer Science and Engineering Department (CSE)](https://engineering.msu.edu/about/departments/cse) in [Michigan State University (MSU)](https://msu.edu/), advised by [Prof. Yu Kong](https://www.egr.msu.edu/~yukong/). 
 
-Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 and Master's degree in 2024 at [ShanghaiTech University], where I was supervised by [Prof. Jingya Wang] and [Prof. Ye Shi].
+Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 and Master's degree in 2024 at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I was supervised by [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/) and [Prof. Ye Shi](https://shiye21.github.io/).
 
 <!-- <span style="color: blue;">**Research Interest**</span> -->
 <span>**Research Interest**</span>
