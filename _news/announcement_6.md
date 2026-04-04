@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on Deepfake Detection accepted by IEEE International Conference on Automatic Face and Gesture Recognition (FG)! :boom: 
+One paper accepted by IEEE International Conference on Automatic Face and Gesture Recognition (FG)! :boom: 

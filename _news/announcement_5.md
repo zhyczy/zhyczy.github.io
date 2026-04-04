@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper IndustryEQA accepted by NeurIPS DB Track! :boom: 
+One paper accepted by NeurIPS DB Track! :boom: 
