@@ -14,16 +14,21 @@ nav_order: 6
 Organize your courses by years, topics, or universities, however you like! -->
 <!-- <p style="line-height:30%"> --> <!-- </p> -->
 <ul>
- <li><strong>Teaching Assitance</strong></li>
+ <li><strong>Teaching Assistant</strong></li>
   <ul>
   <li>Computer Architecture I (CS110), 2020 Spring, ShanghaiTech University, China</li>
   <li>Software Engineering (CS132), 2021 Spring, ShanghaiTech University, China</li>
   <li>Computer Vision II (CS272), 2022 Spring, ShanghaiTech University, China</li>
   <li>Computer Vision I (CS172), 2023 Spring, ShanghaiTech University, China</li>
+  <li>Biometrics and Pattern Recognition (CSE 402), 2026 Fall, Michigan State University, USA</li>
+  </ul>
+ <li><strong>Teaching Experience</strong></li>
+  <ul>
+  <li>K12 Program Instructor, High School Engineering Institute (HSEI) Program, 2026 Summer, Michigan State University, USA</li>
   </ul>
  <li><strong>Reviewer</strong></li>
   <ul>
-  <li>Conference: CVPR, ICCV, NeruIPS, ICLR, ICML, IJCAI, AAAI</li>
+  <li>Conference: CVPR, ICCV, NeurIPS, ICLR, ICML, IJCAI, AAAI</li>
   <li>Journal: IEEE Transactions on Multimedia</li>
   </ul>
 </ul>
