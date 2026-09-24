@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by FG! :boom: 
+One paper accepted by FG! :boom:

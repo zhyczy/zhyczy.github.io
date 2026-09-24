@@ -14,7 +14,6 @@ profile:
     <p>428 S. Shaw Lane</p>
     <p>East Lansing, MI 48824, U.S.A.</p>
 
-
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,13 +26,15 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 <!-- <span style="color: blue;">**About Me**</span> -->
+
 <span>**About Me**</span>
 
-I am Zhongyi Cai, a Ph.D. student at [Computer Science and Engineering Department (CSE)](https://engineering.msu.edu/about/departments/cse) in [Michigan State University (MSU)](https://msu.edu/), advised by [Prof. Yu Kong](https://www.egr.msu.edu/~yukong/). 
+I am Zhongyi Cai, a Ph.D. student at [Computer Science and Engineering Department (CSE)](https://engineering.msu.edu/about/departments/cse) in [Michigan State University (MSU)](https://msu.edu/), advised by [Prof. Yu Kong](https://www.egr.msu.edu/~yukong/).
 
 Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 and Master's degree in 2024 at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I was supervised by [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/) and [Prof. Ye Shi](https://shiye21.github.io/).
 
 <!-- <span style="color: blue;">**Research Interest**</span> -->
+
 <span>**Research Interest**</span>
 
 My research interest focuses on Spatial Reasoning and Exploration in Embodied AI with Multi-modal Language Models.

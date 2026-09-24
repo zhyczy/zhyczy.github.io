@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by ICLR! :boom: 
+One paper accepted by ICLR! :boom:
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
