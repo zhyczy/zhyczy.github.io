@@ -2,7 +2,7 @@
   "basics": {
     "name": "Zhongyi Cai",
     "image": "",
-    "email": "caizhon2 AT msu DOT com",
+    "email": "caizhon2 AT msu DOT edu",
     "url": "https://zhyczy.github.io/",
     "location": {
       "address": "2712 Broadway St",
@@ -28,7 +28,7 @@
       "startDate": "2024-08",
       "endDate": "Present",
       "summary": "Conduct Research on Computer Vision and Artificial Intelligence issues",
-      "highlights": ["DeepFake", "Vedio Analysis", "Embodied AI"]
+      "highlights": ["DeepFake", "Video Analysis", "Embodied AI"]
     },
     {
       "name": "Hikvision Research Institute",
@@ -51,7 +51,7 @@
       "startDate": "2024-08",
       "endDate": "Present",
       "score": "10",
-      "courses": ["Computer Vision", "Vedio Analysis"]
+      "courses": ["Computer Vision", "Video Analysis"]
     },
     {
       "institution": "ShanghaiTech University",

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching & service/
+permalink: /teaching/
 title: teaching & service
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
