@@ -39,5 +39,5 @@ Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 and Master's
 
 My research interests lie in physical AI and embodied intelligence, with a focus on understanding, action, and video generation for embodied agents in the physical world.
 
-Before that, I worked on Deepfake detection and Federated Learning.
+Before that, I worked on deepfake detection and federated learning.
 I am always welcome to research cooperation! So, if you are interested, feel free to contact me via email.
