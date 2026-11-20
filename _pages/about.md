@@ -37,7 +37,7 @@ Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 and Master's
 
 <span>**Research Interest**</span>
 
-My research interest focuses on Spatial Reasoning and Exploration in Embodied AI with Multi-modal Language Models.
+My research interests lie in physical AI and embodied intelligence, with a focus on understanding, action, and video generation for embodied agents in the physical world.
 
 Before that, I worked on Few-Shot Learning (FSL) and Federated Learning (FL).
 I am always welcome to research cooperation! So, if you are interested, feel free to contact me via email.
