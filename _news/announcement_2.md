@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One paper on Non-IID Federated Learning accepted by NeurIPS! :boom: :boom:
+One paper is accepted by NeurIPS! :boom: :boom:
 
 <!-- ---
 layout: post

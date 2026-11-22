@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)! :boom:
+One paper is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)! :boom:

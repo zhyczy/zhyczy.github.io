@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by NeurIPS! :boom: :boom:
+One paper is accepted by NeurIPS! :boom: :boom:
